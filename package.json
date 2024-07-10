@@ -1,9 +1,10 @@
 {
   "name": "using-json-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Learning Goals",
   "main": "index.js",
   "directories": {
+    "example": "example",
     "test": "test"
   },
   "scripts": {
